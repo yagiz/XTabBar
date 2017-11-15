@@ -18,13 +18,13 @@ In storyboard, or xib just change ```"Custom Class"``` property to ```XTabBar```
 
 ### Styles
 #### fullOverlayLight - 0
-![](https://github.com/yagiz/XTabBar/blob/master/screenshots/fullOverlayLight.png?raw=true)
+![](https://github.com/yagiz/XTabBar/blob/master/Screenshots/fullOverlayLight.png?raw=true)
 #### fullOverlayHeavy - 1
-![](https://github.com/yagiz/XTabBar/blob/master/screenshots/fullOverlayHeavy.png?raw=true)
+![](https://github.com/yagiz/XTabBar/blob/master/Screenshots/fullOverlayHeavy.png?raw=true)
 #### fillBottomLight - 2
-![](https://github.com/yagiz/XTabBar/blob/master/screenshots/fillBottomLight.png?raw=true)
+![](https://github.com/yagiz/XTabBar/blob/master/Screenshots/fillBottomLight.png?raw=true)
 #### fillBottomHeavy - 3
-![](https://github.com/yagiz/XTabBar/blob/master/screenshots/fillBottomHeavy.png?raw=true)
+![](https://github.com/yagiz/XTabBar/blob/master/Screenshots/fillBottomHeavy.png?raw=true)
 
 License
 ----
